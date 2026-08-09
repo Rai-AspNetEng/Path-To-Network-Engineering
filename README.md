@@ -427,3 +427,40 @@ network-engineer-roadmap/
 │
 └── projects/
     └── ...
+
+```
+---
+
+# 📝 Learning Philosophy
+
+Learn → Practice → Break → Troubleshoot → Document → Repeat
+
+- I don't want to simply memorize networking commands.
+
+The goal is to understand:
+
+- Why it works → How it works → How to configure it → How to troubleshoot it
+
+---
+
+# 🚀 Long-Term Goal
+
+My long-term goal is to become a skilled Network Engineer capable of:
+
+- Designing network infrastructure
+- Configuring routers and switches
+- Troubleshooting complex network problems
+- Securing network infrastructure
+- Automating repetitive network tasks
+- Working with enterprise networks
+- Working with cloud networking
+- Continuously learning new technologies
+
+---
+
+# 📌 Status
+
+🚧 Roadmap in Progress
+
+- This repository will continuously evolve as I learn new concepts,
+complete labs, build projects, and gain practical experienc
