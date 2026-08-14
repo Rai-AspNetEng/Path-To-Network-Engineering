@@ -30,6 +30,8 @@
 
 <h1>What LANs and WANs Are?</h1>
 
+- Throughout my journey in this module, I have come to understand that LANs and WANs represent the different geographic scales upon which modern networks are built. Based on my learning, a Local Area Network (LAN) connects devices within a highly restricted geographic area, making it ideal for localized environments like computer labs, individual school rooms, or home setups. In contrast, I discovered that a Wide Area Network (WAN) expands this connectivity across massive geographic distances, seamlessly linking separate cities, countries, or even continents. A practical example of a WAN that I noted includes a multinational corporation connecting its distant regional branch offices to a single centralized headquarters. Ultimately, recognizing the distinction between these two network types allows me to see how small, localized connections scale up to form the massive global infrastructure we rely on today.
+  
 --- 
 
 <h1>Basic Network Architecture</h1>
