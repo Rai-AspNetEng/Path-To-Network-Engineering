@@ -20,3 +20,21 @@
 
 - Based on what I know, network protocols serve as a critical, standardized set of rules that all digital devices must strictly follow to communicate and exchange data with one another. Without these mutually agreed-upon instructions, interconnected systems would be unable to interpret the electrical signals or wireless packets they receive from different manufacturers. These rules govern every aspect of data transmission, determining exactly how information is formatted, addressed, transmitted, and received across a network. Furthermore, protocols manage error detection and data compression to ensure that files travel securely and accurately without getting corrupted along the way. Ultimately, these invisible sets of regulations act as a universal digital language, allowing entirely different operating systems and devices across the globe to interact seamlessly.
 
+--- 
+
+<h1>What Clients And Servers?</h1>
+
+- In my study of computer networking, I have come to understand clients and servers as the two fundamental pillars of network interaction, operating in a continuous loop of requests and responses. From my perspective, clients are the end-user devices—such as my own smartphone or laptop—that initiate communication by actively requesting specific data, web pages, or digital resources. On the other hand, I view the server as a high-powered, dedicated machine designed to listen for these incoming requests and provide the necessary resources efficiently. This specialized relationship ensures a clear division of labor, where the client focuses on user interaction while the server handles data storage and processing. Ultimately, this client-server dynamic forms the bedrock of my daily internet experience, enabling everything from browsing websites to streaming media seamlessly.
+
+--- 
+
+<h1>What LANs and WANs Are?</h1>
+
+--- 
+
+<h1>Basic Network Architecture</h1>
+
+--- 
+
+<h1>Basic Network Devices</h1>
+
