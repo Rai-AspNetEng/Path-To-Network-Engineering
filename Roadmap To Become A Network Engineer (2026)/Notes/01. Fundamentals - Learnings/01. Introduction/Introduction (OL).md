@@ -22,7 +22,7 @@
 
 --- 
 
-<h1>What Clients And Servers?</h1>
+<h1>What Are Clients And Servers?</h1>
 
 - In my study of computer networking, I have come to understand clients and servers as the two fundamental pillars of network interaction, operating in a continuous loop of requests and responses. From my perspective, clients are the end-user devices—such as my own smartphone or laptop—that initiate communication by actively requesting specific data, web pages, or digital resources. On the other hand, I view the server as a high-powered, dedicated machine designed to listen for these incoming requests and provide the necessary resources efficiently. This specialized relationship ensures a clear division of labor, where the client focuses on user interaction while the server handles data storage and processing. Ultimately, this client-server dynamic forms the bedrock of my daily internet experience, enabling everything from browsing websites to streaming media seamlessly.
 
